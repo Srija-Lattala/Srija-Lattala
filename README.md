@@ -27,8 +27,8 @@ Skilled in **Python**, **Java**, and **JavaScript**, I have hands-on experience 
 ---
 
 ### 🔗 Connect with Me:
-- [GitHub](https://github.com/SrijaLattala)
-- [LinkedIn](https://www.linkedin.com/in/srija-lattala)
+- **Email**: [srijalattala@gmail.com](mailto:srijalattala@gmail.com)
+- **LinkedIn**: [Srija Lattala](https://www.linkedin.com/in/srija-lattala)
 
 ---
 
