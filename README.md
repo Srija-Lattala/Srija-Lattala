@@ -18,7 +18,11 @@ Skilled in **Python**, **Java**, and **JavaScript**, I have hands-on experience 
 ## 💼 Open to 2025 SDE Internships and 2026 Full-Time Roles
 
 ## 🛠️ Tech Focus:
-- **Full-Stack Development** | **AI/ML** | **Cloud Computing** | **Data Structures & Algorithms (DSA)** | **NLP**
+- **Software Development & System Design**: Expertise in building scalable, efficient systems with a focus on performance, maintainability, and usability.
+- **AI/ML Application Development**: Leveraging machine learning and artificial intelligence to create data-driven solutions that drive business intelligence and automation.
+- **Full-Stack Development**: End-to-end development experience, from designing intuitive user interfaces to building robust backend systems and APIs.
+- **Cloud Infrastructure & DevOps Practices**: Ensuring seamless deployment, scalability, and reliability of applications through cloud services and continuous integration/continuous deployment (CI/CD) practices.
+- **Problem-Solving & Algorithm Design**: Strong analytical skills with the ability to design optimized algorithms to solve complex technical challenges in an efficient manner
 
 ---
 
