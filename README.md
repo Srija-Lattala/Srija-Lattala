@@ -1,4 +1,6 @@
 # 👩‍💻 Srija Lattala | Final Year CSE (2026 Batch)
+![Profile views](https://komarev.com/ghpvc/?username=Srija-Lattala&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ## Welcome to my GitHub! 
 I'm **Srija Lattala**, a passionate and driven **final-year B.Tech student** specializing in **Computer Science Engineering** with a focus on **AI/ML** and **Data Science**. I’m dedicated to creating innovative, real-world solutions through the power of technology and constantly evolving my skills to stay ahead in the fast-paced world of software development.
