@@ -16,7 +16,7 @@
 
 ### 💫 About Me
 
-Hi! I’m Srija — a final-year B.Tech student passionate about **software development**, **AI/ML**, and **solving real-world problems** with code.
+Hi! I’m Srija — a final-year B.Tech student passionate about **software development**, **AI/ML** and **solving real-world problems** with code.
 
 I’m not someone with innate genius, but someone with relentless **curiosity**, **consistency**, and a deep love for learning. Every line of code I write helps me grow into the developer I dream to become.
 
@@ -34,7 +34,7 @@ I believe in building small things that teach big lessons.
 - Building mini projects that make me think and learn
 - Exploring how **AI works under the hood**, while learning how real **software systems are structured and built**
 - Learning by doing — not waiting for perfection
-- 
+  
 ---
 
 ### 🧠 Tech Stack I’m Working With
