@@ -1,4 +1,4 @@
-# 👩‍💻 Srija Lattala | Final Year CSE (2026 Batch)
+# 👩‍💻 Srija Lattala 
 ![Profile views](https://komarev.com/ghpvc/?username=Srija-Lattala&label=Profile%20views&color=0e75b6&style=flat)
 
 
