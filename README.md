@@ -1,69 +1,105 @@
-# 👩‍💻 Srija Lattala 
-![Profile views](https://komarev.com/ghpvc/?username=Srija-Lattala&label=Profile%20views&color=0e75b6&style=flat)
+<!-- Main Header -->
+<h1 align="center">Hey 👋, I'm Srija Lattala!</h1>
+
+<!-- Sub Header with Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F57F17&center=true&vCenter=true&width=440&lines=A+curious+mind+in+tech.;Learning+AI+%26+building+software.;Always+coding%2C+always+growing." alt="Typing SVG" />
+</div>
 
 
-## Welcome to my GitHub! 
-I'm **Srija Lattala**, a passionate and driven **final-year B.Tech student** specializing in **Computer Science Engineering** with a focus on **AI/ML** and **Data Science**. I’m dedicated to creating innovative, real-world solutions through the power of technology and constantly evolving my skills to stay ahead in the fast-paced world of software development.
 
-## About Me
-I am a final-year **B.Tech** student specializing in **Computer Science Engineering** with a focus on **Artificial Intelligence** and **Data Science**. With a passion for **problem-solving**, **software development**, and applying **AI/ML** to real-world problems, I am dedicated to building efficient, scalable, and impactful solutions. 
-
-Skilled in **Python**, **Java**, and **JavaScript**, I have hands-on experience in **full-stack development**, **machine learning**, and **natural language processing (NLP)**. I’m committed to staying on the cutting edge of emerging technologies and believe in constant learning to achieve excellence in tech.
-
-## Key Highlights:
-- **Expert in Data Structures & Algorithms (DSA)**, **Object-Oriented Programming (OOPS)**, and core **CS fundamentals** like **DBMS**, **CN**, and **OS**.
-- Proficient in **Python**, **Java**, and **JavaScript**, with a strong command of **REST APIs** and **databases**.
-- Extensive hands-on experience with **React.js**, **Node.js**, **MongoDB**, and **Streamlit** for building interactive web applications and machine learning models.
-- Familiar with cutting-edge **AI/ML** frameworks like **TensorFlow**, **Hugging Face**, and practical workflows in **Natural Language Processing**.
-- **Quick learner** with a **growth mindset**, always striving to implement best practices and contribute effectively to **collaborative, agile environments**.
-
-## 💼 Open to 2025 SDE Internships and 2026 Full-Time Roles
-
-## 🛠️ Tech Focus:
-- **Software Development & System Design**: Expertise in building scalable, efficient systems with a focus on performance, maintainability, and usability.
-- **AI/ML Application Development**: Leveraging machine learning and artificial intelligence to create data-driven solutions that drive business intelligence and automation.
-- **Full-Stack Development**: End-to-end development experience, from designing intuitive user interfaces to building robust backend systems and APIs.
-- **Cloud Infrastructure & DevOps Practices**: Ensuring seamless deployment, scalability, and reliability of applications through cloud services and continuous integration/continuous deployment (CI/CD) practices.
-- **Problem-Solving & Algorithm Design**: Strong analytical skills with the ability to design optimized algorithms to solve complex technical challenges in an efficient manner
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Srija-Lattala&label=Profile%20views&color=0e75b6&style=flat" alt="Srija's profile views" />
+</p>
 
 ---
 
-### 🔗 Connect with Me:
-- **Email**: [srijalattala@gmail.com](mailto:srijalattala@gmail.com)
-- **LinkedIn**: [Srija Lattala](https://www.linkedin.com/in/srija-lattala)
+### 💫 About Me
+
+Hi! I’m Srija — a final-year B.Tech student passionate about **software development**, **AI/ML**, and **solving real-world problems** with code.
+
+I’m not someone with innate genius, but someone with relentless **curiosity**, **consistency**, and a deep love for learning. Every line of code I write helps me grow into the developer I dream to become.
+
+I believe in building small things that teach big lessons.
 
 ---
 
-## 📈 Professional Skills
-
-### **Software Development**
-- Adept at designing and implementing scalable, efficient, and modular systems using modern frameworks and technologies.
-- Deep knowledge of **Object-Oriented Programming (OOP)** principles, with the ability to create maintainable and reusable code.
-- Proficient in **API development** and **integration**, with a focus on creating secure, reliable REST APIs.
-
-### **AI/ML Expertise**
-- Hands-on experience with **TensorFlow**, **Hugging Face**, and **Scikit-learn**, building and deploying machine learning models for real-world applications.
-- Expertise in **Natural Language Processing (NLP)**, leveraging techniques like sentiment analysis, text classification, and entity recognition to solve complex problems.
-- Passionate about **model optimization**, ensuring the highest accuracy and efficiency in deployed solutions.
-
-### **Web & Full-Stack Development**
-- **React.js**: Building dynamic and responsive user interfaces that engage users and deliver seamless experiences.
-- **Node.js** & **MongoDB**: Expertise in back-end development, managing databases, and building scalable, high-performance applications.
-- **Streamlit**: Proficient in developing interactive web applications for showcasing AI and ML models.
-
-### **Cloud & DevOps**
-- Familiar with cloud technologies like **AWS** and **Azure**, ensuring robust deployment and scalability of applications.
-- Skilled in **Docker** for containerization, **CI/CD pipelines**, and version control with **Git** to streamline development processes.
-
-### **Technical Problem Solving**
-- A keen problem-solver with a deep understanding of **Data Structures & Algorithms (DSA)**, able to tackle complex problems efficiently and effectively.
-- Focused on optimizing time and space complexities to ensure high-performance solutions.
+### 🌻 What I Believe
+> “You don’t need to be extraordinary to start — you just need to start to become extraordinary.”
 
 ---
 
-## 🔍 Let's Collaborate!
-Feel free to reach out if you're looking for a passionate developer to collaborate on impactful projects, pursue internships, or simply exchange ideas in tech. 🚀
+### 🔭 Currently Exploring
+- Practicing **DSA** daily on LeetCode
+- Building mini projects that make me think and learn
+- Exploring how **AI works under the hood**, while learning how real **software systems are structured and built**
+- Learning by doing — not waiting for perfection
+- 
+---
+
+### 🧠 Tech Stack I’m Working With
+
+<!-- Languages -->
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+<!-- Dev Tools -->
+**Dev & Frameworks:**  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+<!-- Tools & AI -->
+**AI/ML & Tools:**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-**🌟 Open to collaborations, internships, and full-time opportunities!**
+### 🌱 Learning Journey
+- 📚 DSA (LeetCode Streak)
+- 🧠 ML/NLP: building simple but meaningful AI-powered projects
+- 🔧 Dev Fundamentals: understanding APIs, DB, and code structuring
+- 🤝 Connecting with the tech community and learning from others
+
+---
+
+### 📌 My Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🍽️ [Restaurant Ordering System](https://github.com/Srija-Lattala/restaurant-ordering-system) | Full-stack app for restaurant order placement & cart handling | Vue.js, Express.js ,Node.js, MySQL |
+| 🎬 [Movie Recommender](https://github.com/Srija-Lattala/Movie_Recommendation_System) | TF-IDF based recommender with Streamlit UI | Python, Pandas, Scikit-learn |
+| 🧠 [Medical Image Analysis](https://github.com/Srija-Lattala/medical-image-analysis) | AI-generated health report via image | Python, Streamlit, Google GenAI |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Srija-Lattala&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Srija-Lattala&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+
+- 📧 Email: [srijalattala@gmail.com](mailto:srijalattala@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/srija-lattala](https://www.linkedin.com/in/srija-lattala)
+- 🐙 GitHub: [Srija-Lattala](https://github.com/Srija-Lattala)
+
+---
+
+### ✨ Final Words
+
+> I’m not trying to be the best — I’m trying to be better than I was yesterday.  
+> Every line of code I write is one step closer.
+
+🌟 *Open to collaborations, mentorship, and internship opportunities.*  
