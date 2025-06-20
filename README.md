@@ -80,14 +80,6 @@ I believe in building small things that teach big lessons.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Srija-Lattala&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Srija-Lattala&theme=tokyonight" />
-</p>
-
----
 
 ### 🤝 Let’s Connect
 
