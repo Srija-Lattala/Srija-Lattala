@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F57F17&center=true&vCenter=true&width=440&lines=A+curious+mind+in+tech.;Learning+AI+%26+building+software.;Always+coding%2C+always+growing." alt="Typing SVG" />
 </div>
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Srija-Lattala&label=Profile%20views&color=0e75b6&style=flat" alt="Srija's profile views" />
 </p>
@@ -46,15 +44,16 @@ I believe in building small things that teach big lessons.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 <!-- Dev Tools -->
-**Dev & Frameworks:**  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+**Dev & Frameworks (MERN Stack):**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-<!-- Tools & AI -->
+<!-- Other Tools & AI -->
 **AI/ML & Tools:**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -74,12 +73,11 @@ I believe in building small things that teach big lessons.
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🍽️ [Restaurant Ordering System](https://github.com/Srija-Lattala/restaurant-ordering-system) | Full-stack app for restaurant order placement & cart handling | Vue.js, Express.js ,Node.js, MySQL |
+| 🛒 [X-Clone](https://github.com/Srija-Lattala/x-clone) | A full-stack, feature-rich clone of Twitter (X) that allows users to post updates with images, like and comment on posts, receive real-time notifications, and discover suggested users. | MongoDB, Express.js, React, Node.js |
 | 🎬 [Movie Recommender](https://github.com/Srija-Lattala/Movie_Recommendation_System) | TF-IDF based recommender with Streamlit UI | Python, Pandas, Scikit-learn |
 | 🧠 [Medical Image Analysis](https://github.com/Srija-Lattala/medical-image-analysis) | AI-generated health report via image | Python, Streamlit, Google GenAI |
 
 ---
-
 
 ### 🤝 Let’s Connect
 
