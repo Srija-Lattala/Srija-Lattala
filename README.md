@@ -73,9 +73,9 @@ I believe in building small things that teach big lessons.
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🛒 [X-Clone](https://github.com/Srija-Lattala/x-clone) | A full-stack, feature-rich clone of Twitter (X) that allows users to post updates with images, like and comment on posts, receive real-time notifications, and discover suggested users. | MongoDB, Express.js, React, Node.js |
-| 🎬 [Movie Recommender](https://github.com/Srija-Lattala/Movie_Recommendation_System) | TF-IDF based recommender with Streamlit UI | Python, Pandas, Scikit-learn |
-| 🧠 [Medical Image Analysis](https://github.com/Srija-Lattala/medical-image-analysis) | AI-generated health report via image | Python, Streamlit, Google GenAI |
+|  [X-Clone](https://github.com/Srija-Lattala/x-clone) | A full-stack, feature-rich clone of Twitter (X) that allows users to post updates with images, like and comment on posts, receive real-time notifications, and discover suggested users. | MongoDB, Express.js, React, Node.js |
+|  [Movie Recommender](https://github.com/Srija-Lattala/Movie_Recommendation_System) | TF-IDF based recommender with Streamlit UI | Python, Pandas, Scikit-learn |
+|  [Medical Image Analysis](https://github.com/Srija-Lattala/medical-image-analysis) | AI-generated health report via image | Python, Streamlit, Google GenAI |
 
 ---
 
