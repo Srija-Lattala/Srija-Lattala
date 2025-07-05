@@ -61,7 +61,7 @@ I believe in building small things that teach big lessons.
 ---
 
 ### 🌱 Learning Journey
-- 📚 DSA (LeetCode Streak)
+- 📚 DSA 
 - 🧠 ML/NLP: building simple but meaningful AI-powered projects
 - 🔧 Dev Fundamentals: understanding APIs, DB, and code structuring
 - 🤝 Connecting with the tech community and learning from others
